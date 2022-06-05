@@ -17,5 +17,10 @@ Resources
 - Youtube
 Communities
 
+### Tools
+
+- [Termux](https://termux.com/) : Termux is a free and open source terminal emulator for Android which allows for running a Linux environment on an Android device
+
+
 
 
