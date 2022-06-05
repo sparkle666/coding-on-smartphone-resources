@@ -20,7 +20,7 @@ Communities
 ### Tools
 
 - [Termux](https://termux.com/) : Termux is a free and open source terminal emulator for Android which allows for running a Linux environment on an Android device
-- [Acode] (https://play.google.com/store/apps/details?id=com.foxdebug.acodefree) : Acode is an android IDE for bootstrapping web applications faster with autocompletion, in app code preview, React, Angular and Vue applications, FTP and lots more.
+- [Acode](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree) : Acode is an android IDE for bootstrapping web applications faster with autocompletion, in app code preview, React, Angular and Vue applications, FTP and lots more.
 
 
 
