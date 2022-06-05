@@ -21,6 +21,11 @@ Communities
 
 - [Termux](https://termux.com/) : Termux is a free and open source terminal emulator for Android which allows for running a Linux environment on an Android device
 - [Acode](https://play.google.com/store/apps/details?id=com.foxdebug.acodefree) : Acode is an android IDE for bootstrapping web applications faster with autocompletion, in app code preview, React, Angular and Vue applications, FTP and lots more.
+- [Pydriod 3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3) : Pydriod is a powerful python IDE that ships with an interpreter that can handle all you pythonic needs including Django, numpy, and the rest of the gang.
+- [Pydriod Repository](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3.quickinstallrepo) : Pydroid repository plugin provides a Quick Install repository with prebuilt packages, that contain native libraries.
+- [anWriter](https://play.google.com/store/search?q=anwriter&c=apps&hl=en&gl=US) : A neat text editor for web development.
+- [JvDriod](https://play.google.com/store/apps/details?id=ru.iiec.jvdroid) : A powerful mobile IDE for java programming with offline compilation.
+
 
 
 
