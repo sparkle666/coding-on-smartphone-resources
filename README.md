@@ -11,8 +11,8 @@ Also, for experienced Devs, smartphones are more mobile and easy to carry around
 ### Outline
 Resources
 - Tools
-- Books
-- Articles
+- Books *To do*
+- Articles *To do*
 - Courses
 - Youtube
 Communities
