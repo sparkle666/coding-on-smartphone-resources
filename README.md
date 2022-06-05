@@ -25,6 +25,8 @@ Communities
 - [Pydriod Repository](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3.quickinstallrepo) : Pydroid repository plugin provides a Quick Install repository with prebuilt packages, that contain native libraries.
 - [anWriter](https://play.google.com/store/search?q=anwriter&c=apps&hl=en&gl=US) : A neat text editor for web development.
 - [JvDriod](https://play.google.com/store/apps/details?id=ru.iiec.jvdroid) : A powerful mobile IDE for java programming with offline compilation.
+- [Eruda](https://github.com/liriliri/eruda) : A good console similar to Chrome dev tools for debugging web apps.
+- [CxxDriod](https://play.google.com/store/apps/details?id=ru.iiec.cxxdroid) : A powerful mobile IDE for C/C++ programming with offline compilation.
 
 
 
