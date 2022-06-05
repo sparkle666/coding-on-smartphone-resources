@@ -8,3 +8,14 @@ Well, there are lot of people out there from both third world countries and firs
 Also, for experienced Devs, smartphones are more mobile and easy to carry around. One can easily pull changes from codebase to commit a thing or two.
 
 
+### Outline
+Resources
+- Tools
+- Books
+- Articles
+- Courses
+- Youtube
+Communities
+
+
+
