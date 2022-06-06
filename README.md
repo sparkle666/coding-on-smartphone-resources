@@ -28,6 +28,10 @@ Communities
 - [Eruda](https://github.com/liriliri/eruda) : A good console similar to Chrome dev tools for debugging web apps.
 - [CxxDriod](https://play.google.com/store/apps/details?id=ru.iiec.cxxdroid) : A powerful mobile IDE for C/C++ programming with offline compilation.
 
+### Keyboard
+
+- [Hackers Keyboard](https://play.google.com/store/search?q=hacker%27s+keyboard&c=apps&hl=en&gl=US) : A full 5 row keyboard with most shortcuts and keys found on a real keyboard.
+- [Codeboard](https://play.google.com/store/apps/details?id=com.gazlaws.codeboard&hl=en&gl=US) : Coding on your mobile device just got easier. No more switching between numbers, symbols and alphabets.
 
 
 
